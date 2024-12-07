@@ -1,0 +1,324 @@
+/* Introduction */
+.bg{
+  position: relative;
+  width: 100%;
+  background-color: #000;
+}
+.introduction{
+  height: 100vh;
+  width: 500px;
+  margin: auto;
+  background: url('../img/bg-fig.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.introduction .app-info{
+  margin: auto;
+  margin-top: 50px;
+  width: fit-content;
+}
+.introduction .app-info .app-image{
+  height: 100px;
+  width: 100px;
+  background-color: var(--tertiary);
+  border-radius: 100px;
+  margin-bottom: 12px;
+}
+.introduction .app-info h3,
+.introduction .app-info p{
+  text-align: center;
+  color: var(--secondary);
+  margin-bottom: 8px;
+}
+.introduction .app-start{
+  position: absolute;
+  width: 100%;
+  bottom: 20px;
+  left: 0;
+}
+.introduction .app-start button{
+  width: 90%;
+  display: block;
+  margin: auto;
+  background-color: var(--primary);
+  color: var(--white);
+  font-weight: bold;
+  font-size: 1em;
+  border: none;
+  outline: none;
+  padding: 12px;
+  border-radius: 8px;
+}
+
+/* Get started */
+.introduction .app-started{
+  padding: 24px;
+}
+.introduction .app-started .start-image{
+  height: 200px;
+  width: 100%;
+  background-color: var(--tertiary);
+  margin-bottom: 20px;
+}
+.introduction .app-started h3,
+.introduction .app-started p{
+  color: var(--white);
+  margin-bottom: 8px;
+}
+
+
+
+/* Home */
+.home{
+  height: 100vh;
+  width: 500px;
+  margin: auto;
+  background: url('../img/background.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.home nav{
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  color: var(--white);
+  font-weight: 500;
+}
+.home nav .right{
+  margin-left: auto;
+  margin-right: 0;
+}
+
+/* Modules */
+.home .modules {
+  margin-top: 30px;
+  overflow: visible; 
+}
+.home .modules .module-data {
+  display: flex;
+  align-items: center;
+  background: linear-gradient(to right, #ED6F9F, #ED8B6A);
+  height: 100px;
+  width: 80%;
+  margin: auto;
+  padding: 12px;
+  border-radius: 12px;
+  position: relative;
+  color: var(--white);
+  overflow: visible;
+  margin-bottom: 50px;
+}
+.home .modules .module-data.module-2{
+  background: linear-gradient(to right, var(--secondary), var(--primary));
+}
+.home .modules .module-data.module-3{
+  background: linear-gradient(to right, #A48DD1, #F9C0EB);
+}
+.home .modules .module-data h3 {
+  font-weight: 500;
+  font-size: 1.6em;
+}
+.home .modules .module-data .module-image {
+  position: absolute;
+  top: -30px; 
+  right: -10px;
+  height: 180px;
+}
+.home .modules .module-data .module-image img {
+  width: auto;
+  height: 100%;
+}
+
+
+
+/* Category */
+.category-sub{
+  height: 100vh;
+  width: 500px;
+  margin: auto;
+  overflow: auto;
+  background: url('../img/category.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.category-sub .category-levels .item{
+  margin-bottom: 24px;
+  display: block;
+  text-decoration: none;
+}
+.category-sub .category-levels .item img{
+  display: block;
+  margin: auto;
+  margin-bottom: -40px;
+}
+.category-sub .category-levels .item h1{
+  color: var(--white);
+  text-align: center;
+  margin-top: -20px;
+  font-size: 2.2em;
+  -webkit-text-stroke: 1px #A44820;
+  text-stroke: 1px #A44820;
+}
+
+
+
+
+/* Description */
+.popup-overlay{
+  position: fixed;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  height: 100vh;
+  width: 500px;
+  background: url('../img/description.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+}
+.popup-overlay .popup-content{
+  background-color: var(--white);
+  width: 90%;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 12px;
+}
+.popup-overlay .popup-content .title{
+  padding: 12px;
+  background-color: #CC6136;
+}
+.popup-overlay .popup-content .title h2{
+  color: var(--white);
+  font-weight: 500;
+  text-align: center;
+  text-transform: capitalize;
+}
+.popup-overlay .popup-content .description{
+  padding: 12px;
+  text-align: justify;
+  line-height: 1.5;
+  opacity: .8;
+}
+.popup-overlay .popup-content .popup-actions{
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popup-overlay .popup-content .popup-actions button{
+  padding: 8px 12px;
+  border: none;
+  outline: none;
+  color: var(--white);
+  background-color: #CC6136;
+  border-radius: 8px;
+  margin: 0 4px;
+}
+
+
+
+/* Quiz */
+.quiz{
+  background: url('../img/quiz.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 500px;
+  margin: auto;
+}
+.quiz-game{
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.quiz .header{
+  padding: 20px;
+}
+.quiz .header button{
+  background-color: transparent;
+  color: var(--white);
+  font-weight: bold;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  font-size: 1.2em;
+}
+.quiz .grow{
+  flex-grow: 1;
+  overflow: auto;
+} 
+.quiz .grow .quiz-footer button{
+  width: 95%;
+  display: block;
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  background-color: #A44820;
+  color: var(--white);
+}
+.quiz .grow h2{
+  color: rgba(0,0,0,0.8);
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.quiz .grow h3{
+  color: rgba(0,0,0,0.8);
+  margin-left: 20px;
+  margin-top: 12px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+}
+.quiz .question{
+  background-color: var(--white);
+  width: calc(95% - 24px);
+  margin: auto;
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid gray;
+  margin-bottom: 20px;
+}
+.quiz .options{
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+}
+.quiz .options button{
+  border: none;
+  outline: none;
+  padding: 12px;
+  font-size: 1em;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #CC6136;
+  color: var(--white);
+}
+
+
+
+
+
+
+@media(max-width: 768px){
+  .quiz,
+  .popup-overlay,
+  .category-sub,
+  .home,
+  .introduction{
+    width: 100%;
+  }
+}

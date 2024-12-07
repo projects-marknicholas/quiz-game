@@ -1,0 +1,3 @@
+Dito ilalagay yung mga validations sa lahat ng pages tulad ng
+
+- Validation if yung user ba is nageexists, if the user dont exists return mo sya sa index page

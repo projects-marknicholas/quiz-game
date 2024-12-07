@@ -1,0 +1,16 @@
+:root {
+  --primary: #378FF3;
+  --secondary: #5474ED;
+  --tertiary: #D0D0D0;
+  --white: #FFFFFF;
+  --black: #000000;
+  --gray: #EFEFEF;
+  --shadow: #F6F6F6;
+}
+::selection {
+  background-color: var(--primary);
+  color: var(--white);
+}
+::-webkit-scrollbar {
+  display: none;
+}

@@ -1,0 +1,957 @@
+Math Easy
+
+1.Ilan ang mansanas [🍎🍎🍎🍎🍎🍎]?
+a. 4             b. 5             c. 6              d. 7
+
+2. Anong hugis ang pinapakita sa larawan 🏀?
+a. Parihaba        b. Parisukat        c. Bilog        d. Tatsulok
+
+3. Tukuyin ang nawawala sa pangkat [F, G , H ,I ,_ , K, L , M]?
+a. C             b. N             c. J              d. E
+
+4. May napitas si Leo na 10 bayabas habang si Erwin naman ay 5 ang napitas na bayabas, binigay ni Leo ang 2 bayabas niya kay Erwin. Ilan na ang bayabas ni Leo at Erwin?
+a. 6 at 5             b. 8 at 7          c. 9 at 8              d. 10 at 5
+
+5. Bumili ka ng 10 na kendi tindahan. Napansin mo na nabubulok at nilalangam na ang 6 na kendi. Aalisin mo ba ito?Kung oo. Ilan nalang ang matitirang kendi sayo?
+a.1             b. 2             c. 3              d. 4
+
+6. Sa grupo ng mga bulaklak ilan ang hindi bulaklak [🌷🤖🌷♥️🌷🌷🌴🌷🌷🌷]?
+a.3             b. 2             c. 5              d. 4
+
+7. Si Xander ay may 20 na manga at ipinahagi niya ito sa tatlo niyang kaibigan. Tig iilan ang napunta sa apat na mag kakaibigan?
+a. 6             b. 3             c. 5              d. 7
+
+8. Alamin ang tamang sagot ⅝  at  ⅞ ?
+ a. >             b. <             c. =
+
+9. Alamin kung anong klaseng guhit ang nasa larawan 🖍️?
+a. tuwid            b. pakurba          
+
+10. Alamin ang tamang sagot na susunod sa nasa larawan [AAA, 111, BBB, _ , CCC, 333]
+a. 000             b. 222             c. EEE              d. FFF
+
+
+
+
+
+
+
+
+
+
+Math Medium
+
+1. Tukuyin kung alin ang odd number.
+a. 5          b. 4             c. 6          d. 2
+
+2. Tukuyin kung alin ang odd number.
+a. 7          b. 4             c. 8          d. 5
+
+3. Tukuyin kung anong simbolo ito ‘ten-ninths’
+a. 10/8          b. 10/7             c. 10/9          d. 10/11
+
+4. Tukuyin kung anong simbolo ito ‘six-sixths’
+a. 6/5          b. 6/6             c. 6/7          d. 6/8
+
+5. Ang tuldok o _ ay may 2  arrow head sa magkabilang direksiyon?
+a. ray          b. line             c. dot          d. endpoint
+
+6. Ang line segment ay may _ end point sa magkabilang dulo?
+a. 2          b. 3             c. 4          d. 5
+
+7 Punan ang nawawala sa larawan.[❤️, ☀️, 🍎, ♦️, ❤️, ☀️, 🍎, _, ❤️, ☀️, 🍎, ♦️]
+a. ❤️          b. ☀️             c. 🍎          d. ♦️
+
+8. Punan ang nawawala sa bilang [20, 25, 30, _, 40, 45]
+a. 60             b. 35            c. 50         d. 15
+
+9. Alamin ang tamang sagot 12 X 4 = N?
+a. 48             b. 60            c. 36         d. 24
+
+10. Alamin ang tamang sagot N = 45 + 55?
+ a. 90             b. 110            c. 100         d. 120
+
+11. Which formula is used to calculate the volume of a rectangular prism?
+a. V=l+w+h
+b. V=l×w×h 
+c. V=2l+2w+2h
+d. V=l×w÷h
+
+12. What is the volume of a rectangular prism with length 5 cm, width 3 cm, and height 4 cm?
+a. 15 cm³
+b. 60 cm³ 
+c. 20 cm³
+d. 12 cm³
+
+13. Which unit is used for volume?
+a. Square units
+b. Linear units
+c. Cubic units 
+d. None of the above
+
+14. If the volume of a rectangular prism is 120 cm³ and the base area is 30 cm², what is the height?
+a. 4 cm 
+b. 6 cm
+c. 8 cm
+d. 10 cm
+
+15. What happens to the volume of a rectangular prism if its height is doubled?
+a. It is halved.
+b. It remains the same.
+c. It is doubled. 
+d. It is tripled.
+
+16. A rectangular prism has a volume of 200 cm³, length of 10 cm, and width of 5 cm. What is its height?
+a. 4 cm
+b. 6 cm
+c. 8 cm
+d. 10 cm
+
+17. Which of the following shapes is NOT a rectangular prism?
+a. A shoebox
+b. A brick
+c. A sphere 
+d. A tissue box
+
+18. If the volume of a rectangular prism is given by 
+V=l×w×h, which component determines its height?
+a. h=V÷(l×w) 
+b. h=V÷l
+c. h=l×w÷V
+d. h=l×w
+
+19. What is the base area of a rectangular prism with length 8 cm and width 3 cm?
+a. 24 cm² 
+b. 11 cm²
+c. 48 cm²
+d. 30 cm²
+
+20. If a rectangular prism has a length of 4 m, width of 3 m, and height of 2 m, what is its volume?
+a. 12 m³
+b. 18 m³
+c. 24 m³
+d. 48 m³
+
+
+
+
+
+Math Hard
+
+1. What is a line graph used for?
+a. To compare parts of a whole
+b. To show trends over time (Correct Answer)
+c. To display percentages
+d. To measure angles
+
+2. If the line on a graph is sloping upward, what does it indicate?
+a. Decrease
+b. Constant value
+c. Increase (Correct Answer)
+d. Irregular trend
+
+3. What should you check first when analyzing a line graph?
+a. The data points
+b. The title and labels (Correct Answer)
+c. The colors
+d. The size of the graph
+
+4. If a line graph shows monthly sales data and the line dips in July, what does it mean?
+a. Sales increased
+b. Sales stayed the same
+c. Sales decreased (Correct Answer)
+d. Sales were the highest
+
+5. Which of the following is an example of a routine problem?
+a. Adding daily expenses (Correct Answer)
+b. Creating a new formula for an equation
+c. Designing a bridge
+d. Finding the average rainfall over 10 years
+
+6. What is a non-routine problem?
+a. A problem solved using basic operations
+b. A problem requiring creative and critical thinking (Correct Answer)
+c. A problem with only one solution
+d. A problem with no data
+
+7. In a line graph showing temperature changes, a steep downward slope indicates:
+a. Rapid increase
+b. Rapid decrease (Correct Answer)
+c. Stable temperature
+d. Irregular fluctuations
+
+8. What operation is most likely used to find the average of a set of data points?
+a. Addition
+b. Multiplication
+c. Division (Correct Answer)
+d. Subtraction
+
+9. If a line graph shows the number of visitors in a park per day, and the line is flat, what does it mean?
+a. The number of visitors fluctuates
+b. The number of visitors increases
+c. The number of visitors decreases
+d. The number of visitors stays the same (Correct Answer)
+
+10. How do you solve a problem that involves comparing two data sets from a line graph?
+a. Subtract the values from one another (Correct Answer)
+b. Multiply the values together
+c. Divide the values
+d. Add the values
+
+11. A line graph shows profits for six months. If April has the highest point, what does it indicate?
+a. Lowest profit in April
+b. Steady profit in April
+c. Highest profit in April (Correct Answer)
+d. No profit in April
+
+12. Which is the most important element of a line graph to understand the trend?
+a. Title
+b. Data points
+c. X and Y axes (Correct Answer)
+d. Gridlines
+
+13. In a non-routine problem, what is the first step to solving it?
+a. Guess the answer
+b. Understand the problem (Correct Answer)
+c. Write the solution immediately
+d. Skip unnecessary information
+
+14. A company’s sales line graph shows a sudden spike in December. What might explain this?
+a. A decrease in demand
+b. A seasonal promotion (Correct Answer)
+c. A supply chain issue
+d. A pricing error
+
+15. What is the purpose of drawing inferences from a line graph?
+a. To create new data
+b. To guess outcomes
+c. To interpret trends and make decisions (Correct Answer)
+d. To change the data points
+
+16. What is the formula for the volume of a cylinder?
+a. 𝑉=𝜋𝑟²ℎ
+b. 𝑉=1/3𝜋𝑟²ℎ
+c. 𝑉=4/3𝜋𝑟³
+d. 𝑉=1/3𝐵ℎ
+
+17. What is the volume of a cone with a radius of 3 cm and a height of 9 cm?
+a. 81 cm³  
+b. 84 cm³  
+c. 84.78 cm³  
+d. 84.82 cm³  
+ 
+
+18. A sphere has a radius of 5 cm. What is its volume? 
+a. 523.33cm³
+b. 520.00cm³
+c. 525.10cm³
+d. 500.00cm³
+
+19. What is the formula for the volume of a pyramid?
+a. V=Bh
+b. 𝑉=1/3𝐵ℎ
+c. 𝑉=𝜋𝑟²ℎ
+d. 𝑉=4/3𝜋𝑟³
+
+
+20. Find the volume of a cylinder with a radius of 4 cm and a height of 10 cm.
+a. 120.48 cm³  
+b. 150.72 cm³  
+c. 502.40 cm³  
+d. 502.65 cm³  
+
+21. A cone and a cylinder have the same base area and height. How many times is the volume of the cylinder compared to the cone?
+a. 2 times  
+b. 3 times  
+c. 4 times  
+d. 6 times  
+
+22. A pyramid has a base area of 30 cm² and a height of 12 cm. What is its volume? 
+a. 360 cm³  
+b. 120 cm³  
+c. 300 cm³  
+d. 480 cm³
+  
+23. What is the volume of a sphere with a diameter of 6 cm?  
+a. 113.04cm³
+b. 115.20cm³
+c. 110.10cm³
+d. 112.50cm³
+
+24. If a cone has a height of 15 cm and a radius of 7 cm, what is its volume?
+a. 770cm³
+b. 770.22cm³
+c. 770.88cm³
+d. 772.50cm³
+
+
+25. How does the volume of a sphere change if its radius is doubled?
+a. Doubles  
+b. Triples  
+c. Quadruples  
+d. Becomes 8 times larger  
+
+26. A cylinder has a diameter of 8 cm and a height of 15 cm. What is its volume?
+a. 1508.80 cm³  
+b. 1507.20 cm³  
+c. 1505.76 cm³  
+d. 1506.50 cm³  
+
+27. What shape is formed by stacking multiple circles with equal radii?
+a. Cone  
+b. Sphere  
+c. Pyramid  
+d. Cylinder  
+ 
+
+28. If the height of a cone is halved, how does the volume change?
+a. Doubles  
+b. Halves  
+c. Triples  
+d. Quadruples  
+ 
+
+29. A rectangular base pyramid has a base area of 50 cm² and a height of 9 cm. What is its volume?
+a. 150 cm³  
+b. 200 cm³  
+c. 300 cm³  
+d. 450 cm³  
+
+30. Which formula represents the volume of a sphere? 
+a. 𝑉=𝜋𝑟²ℎ
+b. 𝑉=1/3𝜋𝑟²ℎ
+c. 𝑉=4/3𝜋𝑟³
+d. 𝑉=1/2𝐵ℎ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EASY
+Correct Answer
+1. C                                      6. A
+2. C                                      7. C
+3. C                                      8. B
+4. B                                      9. A 
+5. D                                     10. B
+
+
+MEDIUM
+Correct Answer
+1. A                                         11. B        
+2. B                                         12. B
+3. D                                         13. C
+4. B                                         14. A
+5. C                                         15. C
+6. A                                         16. A
+
+
+
+HARD
+Correct Answer
+1. B                                        16. A
+2. C                                        17. C
+3. B                                        18. A
+4. C                                        19. B
+5. A                                        20. C
+6. B                                        21. B
+7. B                                        22. A
+8. C                                        23. A
+9. D                                        24. B
+10. A                                      25. D
+11. C                                      26. B
+12. C                                      27. D
+13. B                                      28. B
+14. B                                      29. C
+15. C                                      30. C
+
+
+Easy Mode: English Module
+
+Learning 1: OFFERING HELP
+
+Example A:	Sam	:	Would you like me to help you?
+
+		Ken	:	Yes, please.
+
+Example B:	Oscar	:	Shall I open the Door for you?
+
+	      Vanessa	:	Yes, please. Thank you.
+
+
+Learning Tast 1: Identify the polite response to each situation.
+
+1. Rex: Good evening, Lyka. Are you okay?
+	A. Lyka: Good morning, Rex. Yes, I am fine. Thank you.
+    	B. Lyka: Good evening, Rex. Yes, I am fine. Thank you.
+
+2. Carmen: I am sorry. I forgot to bring you book.
+	A. Elsa: It is okay. Just bring it tomorrow.
+	B. Elsa: Goodbye. See you tomorrow.
+
+3. Belle: Anna, thank you for helping me with my assignment.
+	A. Anna: It is really difficult, Belle.
+	B. Anna: You are welcome, Belle.
+
+4. John: Should I prepare the food for dinner?
+	A. Carlo: Yes, please. Thank you.
+	B. Carlo: I cannot help you.
+
+5. Susan: Grace, may I tell you something?
+	A. Grace: Yes, you may. What is it?
+	B. Grace: I know that already.
+
+
+	
+
+
+
+
+
+
+
+
+
+Learning Tast 2: Read the poem carefully. Then, answer the questions that follow. 
+
+
+
+
+
+
+
+
+
+1. What is being repeated in the story?
+	A. sun		B. moon	C. heart
+
+2. What type of pattern is used in the poem?
+	A. repetitive pattern		B. refrain
+
+3. Which among the words below rhymes with “moon”?
+	A. zoom	B. noon	C. room
+
+
+
+
+
+
+
+
+
+
+
+4. What is being repeated in the story?
+	A. It’s my birthday		B. Fried chicken was prepared.
+
+5. What type of pattern in use the poem?
+	A. repetitive pattern		B. refrain
+
+
+
+
+Leaning Tast 1: Answer				Learning Tast 2: Answer
+1. B.							1. B.
+2. A.							2. A.
+3. B.							3. B.
+4. A.							4. A.
+5. A.							5.  B
+
+
+Medium Mode
+
+Learning Tast 1: Fill in the blanks with the appropriate words. 
+
+1. Harry is the _____ of Uncle Matthew.
+	A. Sun	B. Son	C. Soon
+
+2. I am not feeling well today. I have a ______.
+	A. Flew	B. Flow	C. Flu
+
+3. My dog Kobe always wags its _____when I come home.
+	A. Tail		B. Tell		C. Tale
+
+4. Mom, I would like to eat some_____ for dinner.
+	A. Steak	B. Stake	C. Stick
+
+5. I _____ a letter to my best friend every month.
+	A. Right	B. Write	C. Wright
+
+
+Learning Tast 2: Study each item carefully. Choose the letter of the correct answer.
+
+1. This is the style of writing used to report news stories in news paper, television broadcasts, on radio and on the internet.
+	A. journalistic Writing			C. Telenovela
+	B. Radio Broadcasting			D. TV Network
+
+2. The first sentence underneath the heading should give the reader more information on the story and sum up what is going to be about.
+	A. Title					C. Introduction
+	B. Heading					D. Headline
+
+3. Should catch the reader’s attention and make want to read more.
+	A. Title					C. Introduction
+	B. heading					D. Heading
+
+4. Recap on some of the points or suggest possible predictions.
+	A. Conclusion				C. Introduction
+	B. Heading					D. Title
+
+5. This helps us know the latest event that happen around the world.
+	A. Books					C. Headline
+	B. Journalism				D. Conclusion
+
+
+
+Learning Tast 1: Answer 				Learning Tast 2: Answer
+1. B.							1. A.
+2. C.							2. D.
+3. A.							3. C.
+4. A.							4. A.
+5. B							5. B.
+
+
+
+
+Hard Mode
+
+
+Learning Tast 1: Read the statement carefully and supply the correct conjunction that best suits each sentence.
+
+1. I cooled fast _____ you can eat right away.
+2. I will buy a mansion _____ I get rich.
+3. The landowner divided his land among the people ____ they had been disrespectful.
+4. He got the grand prize ____ he is not happy.
+5. He did a philanthropic act _____and he has a big heart.
+
+
+Learning Tast 2: Identify the verb in each of the following sentences.
+
+1.She sells vegetables every morning.
+2. The doctor wrote the prescription.
+3. They will surrender
+4. Peter guessed the right number.
+5. I though the same thing.
+
+
+
+Learning Tast 1: Answer					Learning Tast 2: Answer
+1. so								1. sells
+2. if 								2. wrote
+3. although							3. Will surrender
+4. but								4. guessed
+5. for								5. though
+
+
+
+
+
+
+SCIENCE EASY
+
+
+1. ) It tells whether an object if hot or cold.
+A. Ears
+B. Eyes
+C. Skin
+ 
+2. ) It if how often you should wash your skin with mild soft.
+A. Every day
+B. Every week
+C. Every year
+ 
+3. ) It is how often must brush your teeth.
+A. Every day
+B. Every week
+C. After every meal
+ 
+4. ) He examines your teeth.
+A. Dentist
+B. Doctor
+C. Nurse
+ 
+5. ) You cover your nose when you see or smell this.
+A. Juice
+B. Noise
+C. Smoke
+
+6. ) They give your body time to relax.
+A. Rest and sleep
+B. Clothes and care
+C. Exercise
+ 
+7. ) It must be clean and safe for you to live in.
+A. Clothes
+B. Love and care
+C. Shelter
+ 
+8. ) Smog, fumes, and smoke from cigarettes make this kind of air.
+A. Dirty
+B. Healthful
+C. Purified
+
+
+
+
+9. ) Their bite can make you sick.
+A. Butterflies
+B. Mosquito
+C. Worms
+
+10. ) They are kept away from children like you.
+A. Food    B. Gasoline      C. Water
+
+ENGLISH MEDIUM
+
+1.) Which statement is correct?
+a. All matter take up space and have mass. 
+b. All matter have color 
+c. c. All matter can keep their shape
+ 
+2.) It has a definite volume, but no definite shape, it takes the shape of its container.
+a. Solid
+b. Liquid
+c. Gas
+ 
+3.)  It has a definite shape and a definite volume.
+a. Solid
+b. Liquid
+c. Gas
+ 
+4.) When we say the paper is rectangular, this describes what property?
+a. Weight
+b. Texture
+c. Shape
+
+ 5.) Which of the following objects is the smallest?
+a. An orange
+b. A plate
+c. An egg
+ 
+6.)  If the gold ball is white, what property is that?
+a. Shape
+b. Size
+c. Color
+ 
+7.) Which of the following tastes salt?
+a. Cheese
+b. Cupcake
+c. Ice cream
+ 
+
+
+
+8. ) What is the texture of the pillow?
+A. Rough
+B. Soft
+C. Hard
+ 
+9. ) Which of the following objects has foul odor?
+A. Cologne
+B. Strawberry
+C. Fish sauce
+ 10. ) sugar tastes sweet while coffee tastes             
+A. Bitter
+B. Sour
+C. Salty
+ 
+11. ) The truck is big. What property of matter is big?
+A. Weight
+B. Texture
+C. Size
+ 
+12. ) which is heavier that a notebook?
+A. Pencil
+B. Bag
+C. Eraser
+ 
+13. ) which sentence best classifies a lemon and a banana?
+A. Both fruits have a strong odor
+B. Both fruits are yellow
+C. Both fruits are sweet
+ 
+14. ) How is cotton and pillow the same?
+A. Both have the same shape
+B. Both have the same size
+C. Both have the same texture
+
+ 15. ) A rose flower may be best described through its               
+A. Color
+B. Odor
+C. Texture
+ 
+16. ) How do you know if a cloth is smooth and soft?
+A. Smell it
+B. Touch it
+C.  Measure it
+ 
+17. ) How do you know if an apple is a sweeter that an orange?
+A. Both have colors
+B. Both have size
+C. Both have rough
+ 
+18. ) Cotton is white, while leaves are green.
+A. Both have colors
+B. Both have size
+C. Both have rough
+ 
+19. )  Which objects are sorted by weight?
+A. Blue pencils and violet markers
+B. Small books and large books
+C. Light toys and heavy toys
+ 
+20. ) Which of these liquids has dark color?
+A. Soy sauce
+B. Vinegar
+C. Honey 
+
+1. ) These are foods that make your skin smooth and healthy. These are fruits and vegetables.
+A. Glow foods
+B. Go foods
+C. Grow foods
+ 
+
+
+2. ) These are foods that help you grow tall and healthy.
+A. Glow foods
+B. Go foods
+C. Grow foods
+ 
+3. ) These are the foods that give energy. They make you work well.
+A. Glow foods
+B. Go foods
+C. Grow foods
+ 
+4. ) It is a substance need by the body that provides energy.
+A. Nutrients
+B. Vitamins
+C. Food
+ 
+5. ) It is a well plan menu prepared for the proper functioning of the body.
+A. Food
+B. Balanced diet
+C. Nutrients
+ 
+
+
+
+6. ) These are the substances that includes vitamins, minerals, proteins, and carbohydrates.
+A. Nutrients
+B. Vitamins
+C. Food
+ 
+7. ) It refers to the amount of food intake.
+A. Food
+B. Diet
+C. Proteins
+ 
+8. ) These are also known as bacteria.
+A. Germs
+B. Fungi
+C. Allergy
+ 
+9. ) It is the bacteria between the teeth causing tooth decay.
+A. Plaque
+B. Germs
+C. Tooth decay
+ 
+
+
+
+10. ) They usually wear dress or blouses with skirt.
+A.  Boys
+B. Girls
+C. Boy and girl
+ 
+11. ) They usually wear shirt with pants or shorts.
+A. Boys
+B. Girl
+C. Boy and girl
+ 
+12. ) It is the smallest unit of organization in a living thing.
+A. Organism
+B. Tissues
+C. Cells
+ 
+13. ) This is a group of cell that performs similar functions.
+A. Organism
+B. Tissues
+C. Cells
+ 
+
+
+
+14. ) This is the colored part of the eyes.
+A. Cornea
+B. Iris
+C. Pupil
+ 
+15. ) It regulates the light that enters your eye.
+A. Cornea
+B. Iris
+C. Pupil
+ 
+16. ) It is a thick,tough skin that covers most of the outside of your eyeball.
+A. Sclera
+B. Iris
+C. Pupil
+ 
+17. ) It is the last stage for sound waves on the journey to your brain.
+A. Inner ear
+B. Cochlea
+C. Middle ear
+ 
+
+
+
+18. ) It is a tiny tube that is curled up tightly in the inner ear.
+A. Inner ear
+B. Cochlea
+C. Middle ear
+ 
+19. ) It is a tiny piece of skin that is stretch across the ear canal.
+A. Inner ear
+B. Cochlea
+C. Eardrum
+ 
+20. ) It is a very hard-working muscle. It is very stretchy, and you use it with your teeth to make lots of different sound that make up words.
+A. Tongue
+B. Mouth
+C. Papillae
+ 
+21. ) It is the largest organ in your body and weighs about 12% of your total body weight.
+A. Skin
+B. Dermis
+C. Melanin
+ 
+
+
+22. ) It is the middle layer of your skin.
+A. Skin
+B. Dermis
+C. Melanin
+ 
+23. ) It is the main olfactory organ-that is, the organ allows you to smell.
+A. Skin
+B. Nose
+C. Tongue
+ 
+24. ) Which animal lay eggs.
+A. Dog
+B. Cat
+C. Sheep
+D. Duck
+ 
+25. ) A male cow is called.
+A. Dog
+B. Ox
+C. Monkey
+D. Sheep
+
+ 
+26. ) All animals need food, air, and                to survive.
+A. Fruits
+B. Water
+C. House
+D. Chocolate
+ 
+27. ) Which one is a fur-bearing animal?
+A. Tortoise
+B. Crocodile
+C. Cat
+D. Hen
+ 
+28. ) The tree has a branch filled in green            
+A. Truck
+B. Leaves
+C. Root
+D. Hair
+ 
+29. ) What parts of your body helps you move?
+A. Pancreas
+B. Lungs
+C. Muscles
+D. Eyes
+ 
+30. ) The two holes of the nose are called?
+A. Nostrils
+B. Nails
+C. Eyelids
+D. Hair
+
+
+
+
+
+
+
+
+
+
+SCIENCE ANSWERS
+EASY            
+1.C
+2.A
+3.A
+4.A
+5.C
+6.A
+7.C
+8.B
+9.B
+10.B
+
+
+MEDIUM
+1.a                      7.a                      13.b                   19.c
+2.b                      8.b                      14.c                   20.a
+b.a                      9.c                      15.a
+3.c                      10.a                    16.b
+4.c                       11.b                    17.c
+5.c                      12.b                    18.a
+
+
+HARD
+1.a
+2.c
+3.b
+4.a
+5.b
+6.a
+7.b
+8.a
+9.c
+10.b
+11.a
+12.c
+13.b
+14.b
+15.c
+16.a
+17.c
+18.b
+19.a
+20.c
+21.a
+22.b
+23.a
+24.d
+25.b
+26.b
+27.a
+28.b
+29.c
+30.a
+
