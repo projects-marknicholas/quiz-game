@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { useNavigate } from 'react-router';
 
 // Components
 import FadeIn from '../components/animations/fade-in';
@@ -11,6 +12,7 @@ import LevelImage from '../assets/img/level.png';
 import '../assets/css/app.css';
 
 const English = () => {
+  const navigate = useNavigate();
   const [showPopup, setShowPopup] = useState(false);
   const [popupData, setPopupData] = useState({ title: '', description: '' });
 
@@ -27,9 +29,16 @@ const English = () => {
     setShowPopup(false);
   };
 
+  const handleReturn = () => {
+    navigate(-1);
+  };
+
   return (
     <FadeIn>
       <div className='category-sub'>
+        <div className="header-handle">
+          <button onClick={handleReturn}>Return</button>
+        </div>
         <div className="category-levels">
           <div 
             className="item" 
