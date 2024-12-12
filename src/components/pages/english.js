@@ -58,6 +58,7 @@ export const EnglishEasy = () => {
           questions: [
             {
               question: "What is being repeated in the story?",
+              poem: "test",
               options: ["A. sun", "B. moon", "C. heart"],
               answer: "B",
             },

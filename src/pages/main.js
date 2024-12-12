@@ -16,7 +16,7 @@ const Home = () => {
   const navigate = useNavigate();
 
   useEffect(() => {
-    document.title = 'App name';
+    document.title = 'Nijohekari';
   });
 
   const openModule1 = () => {

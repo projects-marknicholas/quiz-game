@@ -6,10 +6,11 @@ import FadeIn from '../components/animations/fade-in';
 // CSS
 import '../assets/css/app.css';
 
-const Auth = () => {
+const Auth = ({ playAudio }) => {
   const navigate = useNavigate();
 
   const handleNavigate = () => {
+    playAudio();
     navigate('/get-started');
   };
 

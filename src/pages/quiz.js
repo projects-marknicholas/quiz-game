@@ -33,6 +33,7 @@ const Quiz = () => {
       if(mode === "medium") return ScienceMedium();
       if(mode === "hard") return ScienceHard();
     }
+
     return [];
   };
 
@@ -82,11 +83,10 @@ const Quiz = () => {
     }));
   };
 
-  // Function to calculate the score
   const calculateScore = () => {
     let correctAnswers = 0;
     let totalQuestions = 0;
-
+  
     quizData.forEach((task, taskIndex) => {
       task.tasks.forEach((taskDetails, taskDetailsIndex) => {
         taskDetails.questions.forEach((q, questionIndex) => {
@@ -100,19 +100,20 @@ const Quiz = () => {
         });
       });
     });
-
+  
     const calculatedScore = (correctAnswers / totalQuestions) * 100;
     setScore(calculatedScore);
-
+  
     // Determine pass/fail and update localStorage
     const passThreshold = 60; // Minimum score to pass
     const status = calculatedScore >= passThreshold ? "passed" : "failed";
-
+  
+    // Update quizStatus in localStorage
     const localStorageKey = `${subject}_${mode}`;
     const quizStatus = JSON.parse(localStorage.getItem("quizStatus")) || {};
-
+  
     quizStatus[localStorageKey] = status;
-
+  
     // Mark untouched quizzes as "not_taken"
     ["english", "math", "science"].forEach((subj) => {
       ["easy", "medium", "hard"].forEach((mod) => {
@@ -122,9 +123,27 @@ const Quiz = () => {
         }
       });
     });
-
+  
     localStorage.setItem("quizStatus", JSON.stringify(quizStatus));
-
+  
+    // Store scores in another localStorage key
+    const scores = JSON.parse(localStorage.getItem("scores")) || {};
+  
+    // Update the specific subject and mode with the score
+    if (!scores[subject]) {
+      scores[subject] = {
+        easy: "not_taken",
+        medium: "not_taken",
+        hard: "not_taken",
+      };
+    }
+  
+    // Set the score for the current mode
+    scores[subject][mode] = `${correctAnswers}/${totalQuestions}`;
+  
+    // Save updated scores to localStorage
+    localStorage.setItem("scores", JSON.stringify(scores));
+  
     // SweetAlert for displaying the result
     Swal.fire({
       title: `Your score: ${calculatedScore.toFixed(2)}%`,
@@ -132,8 +151,9 @@ const Quiz = () => {
       icon: status === "passed" ? "success" : "error",
       confirmButtonText: "OK",
     });
+  
     navigate(-1);
-  };
+  };  
 
   // Function to get background color based on the answer correctness
   const getAnswerBackgroundColor = (taskIndex, taskDetailsIndex, questionIndex, selectedAnswer, correctAnswer, options) => {
@@ -173,6 +193,7 @@ const Quiz = () => {
                         return (
                           <div key={qIndex} className="question">
                             <p>{q.question}</p>
+                            <b>{q.poem}</b>
                             <div className="options">
                               {q.options.map((option, optionIndex) => (
                                 <button

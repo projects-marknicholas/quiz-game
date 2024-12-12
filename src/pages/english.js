@@ -15,10 +15,25 @@ const English = () => {
   const navigate = useNavigate();
   const [showPopup, setShowPopup] = useState(false);
   const [popupData, setPopupData] = useState({ title: '', description: '' });
+  const [scores, setScores] = useState({
+    easy: '0/0',
+    medium: '0/0',
+    hard: '0/0',
+  });
 
   useEffect(() => {
     document.title = 'English';
-  });
+    // Get scores from localStorage and update the state
+    const storedScores = JSON.parse(localStorage.getItem('scores')) || {};
+    const englishScores = storedScores.english || {};
+
+    // Check for 'not_taken' and replace it with '0/0'
+    setScores({
+      easy: englishScores.easy === 'not_taken' ? '0/0' : englishScores.easy || '0/0',
+      medium: englishScores.medium === 'not_taken' ? '0/0' : englishScores.medium || '0/0',
+      hard: englishScores.hard === 'not_taken' ? '0/0' : englishScores.hard || '0/0',
+    });
+  }, []);
 
   const handlePopupOpen = (title, description) => {
     setPopupData({ title, description });
@@ -40,33 +55,32 @@ const English = () => {
           <button onClick={handleReturn}>Return</button>
         </div>
         <div className="category-levels">
-          <div 
-            className="item" 
-            onClick={() => handlePopupOpen(
-              'easy', 
-              'This is an easy level.'
-            )}
+          <div
+            className="item"
+            onClick={() =>
+              handlePopupOpen('easy', 'This is an easy level.')
+            }
           >
             <img src={LevelImage} alt="Easy Level" />
-            <h1>Easy</h1>
+            <h1>Easy {scores.easy}</h1>
           </div>
-          <div 
-            className="item" 
-            onClick={() => handlePopupOpen(
-              'medium', 
-              'This is a medium level.'
-            )}>
+          <div
+            className="item"
+            onClick={() =>
+              handlePopupOpen('medium', 'This is a medium level.')
+            }
+          >
             <img src={LevelImage} alt="Medium Level" />
-            <h1>Medium</h1>
+            <h1>Medium {scores.medium}</h1>
           </div>
-          <div 
-            className="item" 
-            onClick={() => handlePopupOpen(
-              'hard', 
-              'This is a hard level.'
-            )}>
+          <div
+            className="item"
+            onClick={() =>
+              handlePopupOpen('hard', 'This is a hard level.')
+            }
+          >
             <img src={LevelImage} alt="Hard Level" />
-            <h1>Hard</h1>
+            <h1>Hard {scores.hard}</h1>
           </div>
         </div>
       </div>
